@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contain{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    height: 200px;
+    width: 400px;
+    display: flex;
+}
+
+.number{
+    height: 200px;
+    width: 300px;
+}
+
+.sign{
+    height: 200px;
+    width: 100px;
+}
+.opretor{
+    height: 50px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    height: 50px;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.input{
+    height: 40px ;
+    width: 80px;
+
+}
+
+.contain2{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.container2{
+    height: 100px;
+    width: 300px;
+    
+}
+
+.msg{
+    height: 40px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.ans{
+    height: 40px;
+    width: 300px;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+.contain3{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clean{
+    height: 40px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+.contain4{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#erase{
+    height: 40px;
+    width: 80px;
+}
+
